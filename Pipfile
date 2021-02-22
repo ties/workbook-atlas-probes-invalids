@@ -9,6 +9,7 @@ pandas = "*"
 pytricia = "*"
 numpy = "*"
 matplotlib = "*"
+altair = "*"
 
 [dev-packages]
 
